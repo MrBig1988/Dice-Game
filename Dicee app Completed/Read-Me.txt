@@ -1,0 +1,1 @@
+Refresh page to get a random dice roll between 2 players.
